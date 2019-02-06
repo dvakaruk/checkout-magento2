@@ -1,5 +1,5 @@
 {
-  "name": "magento/theme-frontend-luma",
+  "name": "magento/checkoutTheme",
   "description": "N/A",
   "config": {
     "sort-packages": true
